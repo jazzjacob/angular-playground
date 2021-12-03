@@ -1,0 +1,22 @@
+.box {
+  width: 400px;
+  height: 200px;
+  background-color: coral;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 1rem;
+}
+
+button {
+  width: fit-content;
+  height: fit-content;
+  padding: 8px;
+}
+
+.suh {
+  color: white;
+  font-family: helvetica;
+  font-weight: bold;
+  font-size: 2rem;
+}
